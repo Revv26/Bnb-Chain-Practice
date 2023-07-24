@@ -8,7 +8,7 @@ contract ControlStructrues {
     // right side of the operator is the value
     /*
     {
-        "0x1aE0EA34a72D944a8C7603FfB3eC30a6669E454C": "Yusuf",
+        "0x1aE0EA34a72D944a8C7603FfB3eC30a6669E454C": "Goktug",
     }
     */
     // But the main difference is here we should declare the types.
