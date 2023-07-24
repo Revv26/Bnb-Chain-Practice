@@ -2,7 +2,7 @@
 
 pragma solidity 0.8.17;
 
-contract ControlStructrues {
+contract Mappings {
     // Imagine that like a JSON
     // Left side of the operator is the key
     // right side of the operator is the value
